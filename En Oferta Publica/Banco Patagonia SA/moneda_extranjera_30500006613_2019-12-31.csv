@@ -1,0 +1,5 @@
+Moneda,ActivoInversiones,ActivoExistencias,PasivoDeudasComerciales,PasivoOtrasDeudas,ActivoCreditosComerciales,PasivoPrestamosBancarios,TieneActivosMonedaExtranjera
+Dólar (E.U.A.),2211044,27791722,34196264,1956514,21824968,14632972,0
+Euro (U.E.),0,976484,804225,66979,292974,230505,0
+Real (Brasil),0,18957,0,0,0,0,1
+Otras monedas (los demás países),0,43581,0,1450,0,0,1

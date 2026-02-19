@@ -1,0 +1,5 @@
+Moneda,ActivoInversiones,ActivoExistencias,PasivoDeudasComerciales,PasivoOtrasDeudas,ActivoCreditosComerciales,PasivoPrestamosBancarios,TieneActivosMonedaExtranjera
+Dólar (E.U.A.),51072,1907,11657,9089,18119,209064,0
+Euro (U.E.),0,11,1783,0,0,0,1
+Franco (Suiza),0,0,172,0,0,0,1
+Corona (noruega),0,0,68,0,0,0,1

@@ -1,0 +1,10 @@
+Moneda,ActivoInversiones,ActivoExistencias,PasivoDeudasComerciales,PasivoOtrasDeudas,ActivoCreditosComerciales,PasivoPrestamosBancarios,TieneActivosMonedaExtranjera
+Libra esterlina (Gran Bretaña),0,5821,0,0,0,0,1
+Franco (Suiza),0,17,0,0,0,0,1
+Real (Brasil),0,4337,0,0,0,0,1
+Dólar (Canadá),0,414,0,0,0,0,1
+N. Sol (Perú),0,14,0,0,0,0,1
+Peso (Uruguay),0,28,0,0,0,0,1
+Peso (Chile),0,5103,0,0,0,0,1
+Euro (U.E.),0,51567,0,60186,0,0,1
+Dólar (E.U.A.),193142,719964,0,1106060,46937,0,1

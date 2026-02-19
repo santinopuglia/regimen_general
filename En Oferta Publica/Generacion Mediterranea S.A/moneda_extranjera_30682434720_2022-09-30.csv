@@ -1,0 +1,5 @@
+Moneda,ActivoInversiones,ActivoExistencias,PasivoDeudasComerciales,PasivoOtrasDeudas,ActivoCreditosComerciales,PasivoPrestamosBancarios,TieneActivosMonedaExtranjera
+Dólar (E.U.A.),2471,3443,34702,0,15235,691590,1
+N. Sol (Perú),0,0,0,1496,0,0,1
+Euro (U.E.),0,0,283,0,0,0,1
+Corona (Suecia),0,0,2047,0,0,0,1

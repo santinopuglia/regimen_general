@@ -1,0 +1,10 @@
+Moneda,ActivoInversiones,ActivoExistencias,PasivoDeudasComerciales,PasivoOtrasDeudas,ActivoCreditosComerciales,PasivoPrestamosBancarios,TieneActivosMonedaExtranjera
+Dólar (E.U.A.),404011728,942277567,2507858138,353982,2481745100,380093356,1
+Euro (U.E.),750734866,592298652,552744606,64005531,1591433855,0,1
+Real (Brasil),219783,0,0,0,229165,0,1
+Dólar (Australia),67382167,0,46950714,339565,347751375,0,1
+Boliviano (Bolivia),918121357,9428443,510763604,156948102,276202501,0,1
+Libra (Egipto),4272778,937510,0,8989145,19466543,0,1
+Dinar (argelia),2692232,1715193,270347122,7952945,4571594,0,1
+Rupia (India),763590,0,445199,227531,5663900,0,1
+Otras monedas (los demás países),572976,0,41125098,0,3189277,0,1

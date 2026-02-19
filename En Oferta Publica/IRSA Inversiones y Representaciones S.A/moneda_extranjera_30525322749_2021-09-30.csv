@@ -1,0 +1,5 @@
+Moneda,ActivoInversiones,ActivoExistencias,PasivoDeudasComerciales,PasivoOtrasDeudas,ActivoCreditosComerciales,PasivoPrestamosBancarios,TieneActivosMonedaExtranjera
+Dólar (E.U.A.),3052,0,1118,55613,5451,0,1
+Euro (U.E.),0,0,14,0,26,0,1
+Shekel (Israel),618,0,0,0,0,0,1
+Libra esterlina (Gran Bretaña),82,0,0,0,0,0,1

@@ -1,0 +1,4 @@
+Moneda,ActivoInversiones,ActivoExistencias,PasivoDeudasComerciales,PasivoOtrasDeudas,ActivoCreditosComerciales,PasivoPrestamosBancarios,TieneActivosMonedaExtranjera
+Dólar (E.U.A.),3207,182862334,91232886,19456666,50682336,76901045,1
+Guaraní (Paraguay),30375977,10523121,218006,0,0,0,1
+Euro (U.E.),0,0,2741932,0,0,0,1

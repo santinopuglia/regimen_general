@@ -1,0 +1,4 @@
+Moneda,ActivoInversiones,ActivoExistencias,PasivoDeudasComerciales,PasivoOtrasDeudas,ActivoCreditosComerciales,PasivoPrestamosBancarios,TieneActivosMonedaExtranjera
+Euro (Alemania),0,1723,0,0,0,0,0
+Dólar (E.U.A.),2366980.68,1950.75,490000.00,0,379897.16,0,1
+Peso (Uruguay),0,149.68,0,0,0,0,1

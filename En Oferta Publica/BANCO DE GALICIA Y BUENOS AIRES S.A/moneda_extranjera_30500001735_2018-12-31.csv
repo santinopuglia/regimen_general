@@ -1,0 +1,5 @@
+Moneda,ActivoInversiones,ActivoExistencias,PasivoDeudasComerciales,PasivoOtrasDeudas,ActivoCreditosComerciales,PasivoPrestamosBancarios,TieneActivosMonedaExtranjera
+Dólar (E.U.A.),0,199441767,0,199848239,0,0,1
+UVA (Argentina),0,1968176,0,557382,0,0,1
+Real (Brasil),0,29919,0,0,0,0,1
+Otras monedas (los demás países),0,115570,0,24112,0,0,1
